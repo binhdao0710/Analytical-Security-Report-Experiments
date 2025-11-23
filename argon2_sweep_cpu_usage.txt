@@ -1,0 +1,89 @@
+Linux 6.12.32-amd64 (parrot) 	21/11/2025 	_x86_64_	(4 CPU)
+
+09:45:48      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:45:49     1000      2441   71.00   25.00    0.00    0.00   96.00     3  python3
+
+09:45:48      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:45:49     1000      2441   1836.00      1.00  225600   30452   0.38  python3
+
+09:45:49      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:45:50     1000      2441   72.00   28.00    0.00    0.00  100.00     3  python3
+
+09:45:49      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:45:50     1000      2441    330.00      0.00  225600   30452   0.38  python3
+
+09:45:50      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:45:51     1000      2441   91.00    8.00    0.00    0.00   99.00     3  python3
+
+09:45:50      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:45:51     1000      2441    429.00      0.00  225600   98036   1.21  python3
+
+09:45:51      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:45:52     1000      2441   91.00    9.00    0.00    0.00  100.00     3  python3
+
+09:45:51      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:45:52     1000      2441    419.00      0.00  225600  145140   1.79  python3
+
+09:45:52      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:45:53     1000      2441   49.00   50.00    0.00    0.00   99.00     3  python3
+
+09:45:52      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:45:53     1000      2441    262.00      0.00  356672  276212   3.41  python3
+
+09:45:53      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:45:54     1000      2441   95.00    5.00    0.00    1.00  100.00     3  python3
+
+09:45:53      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:45:54     1000      2441    260.00      0.00  356672  276212   3.41  python3
+
+09:45:54      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:45:55     1000      2441   95.00    4.00    0.00    0.00   99.00     3  python3
+
+09:45:54      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:45:55     1000      2441    260.00      0.00  356672  276212   3.41  python3
+
+09:45:55      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:45:56     1000      2441   93.00    6.00    0.00    0.00   99.00     3  python3
+
+09:45:55      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:45:56     1000      2441    260.00      0.00  356672  276212   3.41  python3
+
+09:45:56      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:45:57     1000      2441   95.00    6.00    0.00    0.00  101.00     3  python3
+
+09:45:56      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:45:57     1000      2441    260.00      0.00  356672  276212   3.41  python3
+
+09:45:57      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:45:58     1000      2441   95.00    5.00    0.00    0.00  100.00     3  python3
+
+09:45:57      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:45:58     1000      2441    265.00      0.00  356672   20212   0.25  python3
+
+09:45:58      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:45:59     1000      2441   93.00    6.00    0.00    0.00   99.00     3  python3
+
+09:45:58      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:45:59     1000      2441    307.00      0.00  356672  116468   1.44  python3
+
+09:45:59      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:46:00     1000      2441   92.00    7.00    0.00    0.00   99.00     3  python3
+
+09:45:59      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:46:00     1000      2441    304.00      0.00  356672  206580   2.55  python3
+
+09:46:00      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:46:01     1000      2441   94.00    5.00    0.00    0.00   99.00     3  python3
+
+09:46:00      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:46:01     1000      2441    294.00      0.00  356672  276212   3.41  python3
+
+09:46:01      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+09:46:02     1000      2441   94.00    7.00    0.00    0.00  101.00     3  python3
+
+09:46:01      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+09:46:02     1000      2441    260.00      0.00  356672  276212   3.41  python3
+
+09:46:02      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+
+09:46:02      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
